@@ -1,0 +1,650 @@
+# depslib dependency file v1.0
+1526646175 source:h:\monopols_jauns\main.cpp
+	<iostream>
+	"Game.h"
+
+1526646972 h:\monopols_jauns\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<thread>
+
+1526647116 source:h:\monopols_jauns\src\game.cpp
+	"Game.h"
+
+1526645196 h:\monopols_jauns\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1526645196 source:h:\monopols_jauns\src\kaulins.cpp
+	"Kaulins.h"
+
+1526646109 h:\monopols_jauns\include\player.h
+	<iostream>
+
+1526646109 source:h:\monopols_jauns\src\player.cpp
+	"Player.h"
+
+1526611890 source:d:\monopols_jauns\main.cpp
+	<iostream>
+	"Game.h"
+
+1526926255 d:\monopols_jauns\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<thread>
+	<conio.h>
+	<windows.h>
+
+1526611892 d:\monopols_jauns\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1526926254 d:\monopols_jauns\include\player.h
+	<iostream>
+
+1526918398 source:d:\monopols_jauns\src\game.cpp
+	"Game.h"
+
+1526611892 source:d:\monopols_jauns\src\kaulins.cpp
+	"Kaulins.h"
+
+1526917769 source:d:\monopols_jauns\src\player.cpp
+	"Player.h"
+
+1526916366 source:d:\monopols_jauns\src\bonuss.cpp
+	"Bonuss.h"
+
+1526916366 d:\monopols_jauns\include\bonuss.h
+	<Lauks.h>
+
+1526916341 d:\monopols_jauns\include\lauks.h
+
+1526916387 source:d:\monopols_jauns\src\ipasums.cpp
+	"Ipasums.h"
+
+1526916387 d:\monopols_jauns\include\ipasums.h
+	<Lauks.h>
+
+1526916341 source:d:\monopols_jauns\src\lauks.cpp
+	"Lauks.h"
+
+1526840325 source:d:\monopols_jauns\src\property.cpp
+	"Property.h"
+
+1526840325 d:\monopols_jauns\include\property.h
+
+1526975805 source:h:\c++\monopols_jauns\main.cpp
+	<iostream>
+	"Game.h"
+
+1526977927 h:\c++\monopols_jauns\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	"Lauks.h"
+	<stdlib.h>
+	<vector>
+	<thread>
+	<conio.h>
+	<windows.h>
+	"../src/config.cpp"
+
+1526575892 h:\c++\monopols_jauns\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1526890254 h:\c++\monopols_jauns\include\player.h
+	<iostream>
+
+1526972460 source:h:\c++\monopols_jauns\src\bonuss.cpp
+	"Bonuss.h"
+
+1526972460 h:\c++\monopols_jauns\include\bonuss.h
+	<Lauks.h>
+	<iostream>
+
+1526977798 h:\c++\monopols_jauns\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1526972460 source:h:\c++\monopols_jauns\src\ipasums.cpp
+	"Ipasums.h"
+
+1526972460 h:\c++\monopols_jauns\include\ipasums.h
+	<Lauks.h>
+
+1526575892 source:h:\c++\monopols_jauns\src\kaulins.cpp
+	"Kaulins.h"
+
+1526975773 source:h:\c++\monopols_jauns\src\player.cpp
+	"Player.h"
+
+1526979456 source:h:\c++\monopols_jauns\src\game.cpp
+	"Game.h"
+
+1526975929 source:h:\c++\monopols_jauns\src\lauks.cpp
+	"Lauks.h"
+
+1526977927 h:\c++\monopols_jauns\src\config.cpp
+
+1526977927 source:h:\c++\monopols_jauns\src\config.cpp
+
+1526976041 source:h:\c++\monopols_jauns\src\funkcijas.cpp
+	"Funkcijas.h"
+
+1526976059 h:\c++\monopols_jauns\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1526975805 source:h:\c++\monopols_jauns_jaunaks\main.cpp
+	<iostream>
+	"Game.h"
+
+1527580815 h:\c++\monopols_jauns_jaunaks\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	"Lauks.h"
+	<stdlib.h>
+	<vector>
+	<thread>
+	<conio.h>
+	<windows.h>
+	"../src/config.cpp"
+
+1526575892 h:\c++\monopols_jauns_jaunaks\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1527063432 h:\c++\monopols_jauns_jaunaks\include\player.h
+	<iostream>
+
+1527580955 h:\c++\monopols_jauns_jaunaks\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Funkcijas.h"
+
+1526977927 h:\c++\monopols_jauns_jaunaks\src\config.cpp
+
+1526972460 source:h:\c++\monopols_jauns_jaunaks\src\bonuss.cpp
+	"Bonuss.h"
+
+1526972460 h:\c++\monopols_jauns_jaunaks\include\bonuss.h
+	<Lauks.h>
+	<iostream>
+
+1526977927 source:h:\c++\monopols_jauns_jaunaks\src\config.cpp
+
+1526972460 source:h:\c++\monopols_jauns_jaunaks\src\ipasums.cpp
+	"Ipasums.h"
+
+1526972460 h:\c++\monopols_jauns_jaunaks\include\ipasums.h
+	<Lauks.h>
+
+1526575892 source:h:\c++\monopols_jauns_jaunaks\src\kaulins.cpp
+	"Kaulins.h"
+
+1527579856 source:h:\c++\monopols_jauns_jaunaks\src\lauks.cpp
+	"Lauks.h"
+
+1527579085 source:h:\c++\monopols_jauns_jaunaks\src\player.cpp
+	"Player.h"
+
+1527062433 h:\c++\monopols_jauns_jaunaks\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1527062433 source:h:\c++\monopols_jauns_jaunaks\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1527580912 source:h:\c++\monopols_jauns_jaunaks\src\game.cpp
+	"Game.h"
+
+1526976059 h:\c++\monopols_jauns_jaunaks\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1527545274 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\main.cpp
+	<iostream>
+	"Game.h"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaks\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	"Lauks.h"
+	<stdlib.h>
+	<vector>
+	<thread>
+	<conio.h>
+	<windows.h>
+	"../src/config.cpp"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaks\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1527545280 h:\c++\monopols_jauns_jaunaks_veljaunaks\include\player.h
+	<iostream>
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaks\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Funkcijas.h"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaks\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1527545276 h:\c++\monopols_jauns_jaunaks_veljaunaks\src\config.cpp
+
+1527545276 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\bonuss.cpp
+	"Bonuss.h"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaks\include\bonuss.h
+	<Lauks.h>
+	<iostream>
+
+1527545276 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\config.cpp
+
+1527545274 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1527545276 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\game.cpp
+	"Game.h"
+
+1527545276 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\ipasums.cpp
+	"Ipasums.h"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaks\include\ipasums.h
+	<Lauks.h>
+
+1527545278 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\kaulins.cpp
+	"Kaulins.h"
+
+1527545278 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\lauks.cpp
+	"Lauks.h"
+
+1527545278 source:h:\c++\monopols_jauns_jaunaks_veljaunaks\src\player.cpp
+	"Player.h"
+
+1527545274 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv2\main.cpp
+	<iostream>
+	"Game.h"
+
+1528873608 h:\c++\monopols_jauns_jaunaks_veljaunaksv2\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	"Lauks.h"
+	<stdlib.h>
+	<thread>
+	<conio.h>
+	<windows.h>
+	"../src/config.cpp"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaksv2\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1528873608 h:\c++\monopols_jauns_jaunaks_veljaunaksv2\include\player.h
+	<iostream>
+	<vector>
+
+1527665421 h:\c++\monopols_jauns_jaunaks_veljaunaksv2\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Funkcijas.h"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaksv2\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1527545276 h:\c++\monopols_jauns_jaunaks_veljaunaksv2\src\config.cpp
+
+1527545276 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv2\src\config.cpp
+
+1527545274 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv2\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1527545278 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv2\src\kaulins.cpp
+	"Kaulins.h"
+
+1527545274 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv3\main.cpp
+	<iostream>
+	"Game.h"
+
+1528874107 h:\c++\monopols_jauns_jaunaks_veljaunaksv3\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	<thread>
+	<conio.h>
+	<windows.h>
+	"../src/config.cpp"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaksv3\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1528873799 h:\c++\monopols_jauns_jaunaks_veljaunaksv3\include\player.h
+	<iostream>
+	<vector>
+	"Lauks.h"
+
+1527665421 h:\c++\monopols_jauns_jaunaks_veljaunaksv3\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Funkcijas.h"
+
+1527545278 h:\c++\monopols_jauns_jaunaks_veljaunaksv3\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1528875245 h:\c++\monopols_jauns_jaunaks_veljaunaksv3\src\config.cpp
+
+1528875245 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv3\src\config.cpp
+
+1527545274 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv3\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1527545278 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv3\src\kaulins.cpp
+	"Kaulins.h"
+
+1528877185 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv3\src\game.cpp
+	"Game.h"
+
+1527665583 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv3\src\lauks.cpp
+	"Lauks.h"
+
+1528876815 source:h:\c++\monopols_jauns_jaunaks_veljaunaksv3\src\player.cpp
+	"Player.h"
+
+1527668086 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\main.cpp
+	<iostream>
+	"Game.h"
+
+1529000603 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	"Funkcijas.h"
+	<thread>
+	<conio.h>
+	<windows.h>
+	"Lauks.h"
+	"../src/config.cpp"
+
+1527668088 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1529001957 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\include\player.h
+	<iostream>
+	<vector>
+
+1529001475 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1528999480 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1527668089 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\src\config.cpp
+
+1527668089 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\src\config.cpp
+
+1528999480 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1527668092 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\src\kaulins.cpp
+	"Kaulins.h"
+
+1529002166 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\src\lauks.cpp
+	"Lauks.h"
+
+1529002240 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\src\player.cpp
+	"Player.h"
+
+1529002166 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv3\src\game.cpp
+	"Game.h"
+
+1529094051 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\main.cpp
+	<iostream>
+	"Game.h"
+
+1529094810 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	"Funkcijas.h"
+	<thread>
+	<conio.h>
+	<windows.h>
+	"Lauks.h"
+	"../src/config.cpp"
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1529097708 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\include\player.h
+	<iostream>
+	<vector>
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\src\config.cpp
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\src\config.cpp
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\src\kaulins.cpp
+	"Kaulins.h"
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\src\lauks.cpp
+	"Lauks.h"
+
+1529095746 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\src\player.cpp
+	"Player.h"
+
+1529097708 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv3\src\game.cpp
+	"Game.h"
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\src\config.cpp
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\src\kaulins.cpp
+	"Kaulins.h"
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1529094052 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\src\lauks.cpp
+	"Lauks.h"
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529097728 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\src\player.cpp
+	"Player.h"
+
+1529097708 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\include\player.h
+	<iostream>
+	<vector>
+
+1529151360 source:c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\main.cpp
+	<iostream>
+	"Game.h"
+
+1529149731 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	"Funkcijas.h"
+	<thread>
+	<conio.h>
+	<windows.h>
+	"Lauks.h"
+	"../src/config.cpp"
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529094052 c:\users\klagz\documents\programmesana\monopols_jauns_jaunaks_veljaunaksv4\src\config.cpp
+
+1529322404 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\main.cpp
+	<iostream>
+	"Game.h"
+
+1529328228 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	"Funkcijas.h"
+	<thread>
+	<conio.h>
+	<vector>
+	<windows.h>
+	"Lauks.h"
+	"../src/config.cpp"
+
+1529152651 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1529324655 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\include\player.h
+	<iostream>
+
+1529321735 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529325391 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529321595 d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\src\config.cpp
+
+1529321595 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\src\config.cpp
+
+1529321748 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1529328598 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\src\game.cpp
+	"Game.h"
+
+1529152653 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\src\kaulins.cpp
+	"Kaulins.h"
+
+1529326736 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\src\lauks.cpp
+	"Lauks.h"
+
+1529328051 source:d:\monopols c++\monopols_jauns_jaunaks_veljaunaksv5\src\player.cpp
+	"Player.h"
+
+1529322404 source:c:\users\raimonds\desktop\monopols_pabeigts\main.cpp
+	<iostream>
+	"Game.h"
+
+1529328228 c:\users\raimonds\desktop\monopols_pabeigts\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	"Funkcijas.h"
+	<thread>
+	<conio.h>
+	<vector>
+	<windows.h>
+	"Lauks.h"
+	"../src/config.cpp"
+
+1529152651 c:\users\raimonds\desktop\monopols_pabeigts\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1529324655 c:\users\raimonds\desktop\monopols_pabeigts\include\player.h
+	<iostream>
+
+1529321735 c:\users\raimonds\desktop\monopols_pabeigts\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529325391 c:\users\raimonds\desktop\monopols_pabeigts\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529321595 c:\users\raimonds\desktop\monopols_pabeigts\src\config.cpp
+
+1529321595 source:c:\users\raimonds\desktop\monopols_pabeigts\src\config.cpp
+
+1529321748 source:c:\users\raimonds\desktop\monopols_pabeigts\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1529329126 source:c:\users\raimonds\desktop\monopols_pabeigts\src\game.cpp
+	"Game.h"
+
+1529152653 source:c:\users\raimonds\desktop\monopols_pabeigts\src\kaulins.cpp
+	"Kaulins.h"
+
+1529326736 source:c:\users\raimonds\desktop\monopols_pabeigts\src\lauks.cpp
+	"Lauks.h"
+
+1529328051 source:c:\users\raimonds\desktop\monopols_pabeigts\src\player.cpp
+	"Player.h"
+
