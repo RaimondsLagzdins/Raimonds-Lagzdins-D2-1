@@ -1,7 +1,8 @@
 #include "Player.h"
 
-Player::Player(string name)
+Player::Player(string name, int newID)
 {
+    this->id = newID;
     this->name = name;
     this->money = 1500;
     this->vieta = 1;
@@ -16,6 +17,7 @@ Player::~Player()
 string Player::getName(){
     return this->name;
 }
+
 
 int Player::getID(){
     return this->id;

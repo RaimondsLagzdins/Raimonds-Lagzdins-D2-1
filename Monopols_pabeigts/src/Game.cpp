@@ -17,7 +17,7 @@ Game::Game()
     for(int i = 1; i <= skaits; i++){
     cout << "Ievadi " << i << ". speletaja vardu: ";
         cin >> vards;
-    speletaji.push_back(new Player(vards));
+    speletaji.push_back(new Player(vards, i));
     }
 
 
@@ -161,8 +161,10 @@ int Game::izvele(){
 
                         this->ipasums = lauki.at(i);
 
-                        if(this->ipasums->getOwned() && this->p->getID() == this->ipasums->getIpasnieks())
+                        if(this->ipasums->getOwned() && (this->p->getID() == this->ipasums->getIpasnieks())){
                             this->ipasums->printInfo();
+                        }
+
                     }
 
                     break;

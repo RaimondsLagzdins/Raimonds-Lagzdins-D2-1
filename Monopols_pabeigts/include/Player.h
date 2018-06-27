@@ -7,7 +7,7 @@ using namespace std;
 class Player
 {
     public:
-        Player(string);
+        Player(string, int);
         virtual ~Player();
         string getName();
 

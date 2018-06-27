@@ -648,3 +648,57 @@
 1529328051 source:c:\users\raimonds\desktop\monopols_pabeigts\src\player.cpp
 	"Player.h"
 
+1529329232 source:c:\users\raimonds\desktop\new folder\monopols_pabeigts\main.cpp
+	<iostream>
+	"Game.h"
+
+1529329232 c:\users\raimonds\desktop\new folder\monopols_pabeigts\include\game.h
+	<iostream>
+	"Kaulins.h"
+	"Player.h"
+	<stdlib.h>
+	"Funkcijas.h"
+	<thread>
+	<conio.h>
+	<vector>
+	<windows.h>
+	"Lauks.h"
+	"../src/config.cpp"
+
+1529329232 c:\users\raimonds\desktop\new folder\monopols_pabeigts\include\kaulins.h
+	<stdlib.h>
+	<time.h>
+
+1530103357 c:\users\raimonds\desktop\new folder\monopols_pabeigts\include\player.h
+	<iostream>
+
+1529329232 c:\users\raimonds\desktop\new folder\monopols_pabeigts\include\funkcijas.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529329232 c:\users\raimonds\desktop\new folder\monopols_pabeigts\include\lauks.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529329232 c:\users\raimonds\desktop\new folder\monopols_pabeigts\src\config.cpp
+
+1529329232 source:c:\users\raimonds\desktop\new folder\monopols_pabeigts\src\config.cpp
+
+1529329232 source:c:\users\raimonds\desktop\new folder\monopols_pabeigts\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+
+1530103357 source:c:\users\raimonds\desktop\new folder\monopols_pabeigts\src\game.cpp
+	"Game.h"
+
+1529329232 source:c:\users\raimonds\desktop\new folder\monopols_pabeigts\src\kaulins.cpp
+	"Kaulins.h"
+
+1529329232 source:c:\users\raimonds\desktop\new folder\monopols_pabeigts\src\lauks.cpp
+	"Lauks.h"
+
+1530103357 source:c:\users\raimonds\desktop\new folder\monopols_pabeigts\src\player.cpp
+	"Player.h"
+
